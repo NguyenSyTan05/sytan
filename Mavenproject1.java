@@ -6,4 +6,4 @@ public class Mavenproject1 {
         System.out.println("Lớp: TMP13as");
         System.out.println("Mã số sinh viên: 29211153918");
     }
-} git config --global user.name "vannghia02004"
+} 
